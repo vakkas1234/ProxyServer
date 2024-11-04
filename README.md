@@ -1,5 +1,5 @@
 Hi friends, I made a proxy server. 
-##Setup
+## Setup
 You need to download http-proxy.
 Code
 ```bash
@@ -20,7 +20,7 @@ node index.js
 ```
 and it will work
 After it works, you can see http://localhost:3000/posts on the stage.
-##Additonally
+## Additonally
 You can change the target URL in the code stage.
 
 
